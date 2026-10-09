@@ -1,0 +1,6 @@
+{
+  "name": "Alle'nora Annie's Signature Salon",
+  "description": "Alle'nora Annie's Signature Salon in Faisalabad offers a refined beauty experience with bridal makeup, party makeup, hair treatments and facial care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
